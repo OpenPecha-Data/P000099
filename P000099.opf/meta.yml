@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །གསང་འགྲེལ་ཕྱོགས་བཅུའི་མུན་སེལ་གྱི་སྤྱི་དོན་འོད་གསལ་སྙིང་པོ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧ཀུན་མཁྱེན་མི་ཕམ་རྒྱ་མཚོས་མཛད།
+  sku: SHE-003
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Essence of Clear Light:A General Presentation on Tantra Commentary of Dispelling
+      Darkness of the Ten Directions
+    bo: གསང་འགྲེལ་ཕྱོགས་བཅུའི་མུན་སེལ་གྱི་སྤྱི་དོན་འོད་གསལ་སྙིང་པོ་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 3
+    bo: ''
+  author:
+    en: Jamgon Mipham Gyatso
+    bo: འཇམ་མགོན་མི་ཕམ་རྒྱ་མཚོ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-003
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-003.epub
+  description:
+    en: ''
+    bo: ''
